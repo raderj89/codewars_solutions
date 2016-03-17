@@ -1,1 +1,1 @@
-My solutions to codewars challenges
+Solutions and thoughts on [Codewars](http://www.codewars.com/) challenges
